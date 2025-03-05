@@ -1,0 +1,9 @@
+parking.db
+.sqlite
+.sqlite3
+.db
+.db3
+parking.db
+.sqlite-shm
+.sqlite-wal
+.sqlite-journal
